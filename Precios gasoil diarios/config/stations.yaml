@@ -1,0 +1,5 @@
+stations:
+  # PENDIENTE completar con las 39 estaciones reales
+  - id: gijon
+    name: Gijon
+    province: asturias
