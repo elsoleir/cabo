@@ -1,0 +1,10 @@
+suppliers:
+  norpetrol:
+    sender: envioprecios@norpetrol.es
+    vat_factor: 1.10
+  valcarce:
+    sender: envios@grupovalcarce.net
+  dst:
+    sender: hola@dstfuelcard.eu
+  empresoil:
+    sender: estaciondeservicio@empresoil.com
