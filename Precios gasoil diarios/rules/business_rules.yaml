@@ -1,0 +1,4 @@
+rules:
+  sort_prices: ascending
+  use_last_price_if_missing: true
+  remove_duplicates: true
