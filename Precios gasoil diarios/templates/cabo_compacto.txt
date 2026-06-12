@@ -1,3 +1,0 @@
-⛽ PRECIOS GASOLEO · {fecha}
-
-{filas}
