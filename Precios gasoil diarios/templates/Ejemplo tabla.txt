@@ -1,0 +1,41 @@
+⛽ GASÓLEO · VIE 12 JUN 2026
+
+1,227  🟧  VAL  Pamanes
+1,227  🟥  VAL  Hormilla
+1,228  🟥  VAL  San Vicente
+1,229  🟥  VAL  Benavente
+1,230  🟥  VAL  Watery Aranda
+1,232  ⬜  VAL  Ribadeo
+1,232  🟥  VAL  Palanquinos
+1,234  🟥  VAL  Ribaforada
+1,236  🟦  VAL  Avilesina
+1,236  🟦  VAL  Siero
+1,239  🟥  NOR  Benavente Staroil
+1,239  🟥  VAL  Valcambus Riaño II
+1,241  🟥  VAL  La Joyosa
+1,243  🟥  NOR  Aranda Prado Marina
+1,244  🟥  NOR  Benavente Avia
+1,245  🟦  VAL  Empresoil Asturias
+1,247  🟥  VAL  Alfajarín
+1,248  🟥  VAL  Aldehuela
+1,249  🟥  VAL  Centro Tte Zamora
+1,253  ⬜  VAL  Fegoblan Pontevedra
+1,254  🟦  DST  Somonte Gijón
+1,263  🟥  DST  Benavente
+1,263  🟩  DST  Oiartzun
+1,263  🟥  NOR  Agoncillo
+1,268  🟥  NOR  El Burgo Avia
+1,272  🟧  DST  Fonolleres Lleida
+1,284  ⬜  DST  Sertuy
+1,285  ⬜  NOR  Liaño
+1,287  🟥  DST  Frontera Caya
+1,290  🟩  NOR  Jundiz Vitoria
+1,291  🟥  NOR  Los Carros Briviesca
+1,292  🟦  NOR  Tabaza Avia
+1,292  🟦  NOR  Ribadesella Avia
+1,296  🟧  NOR  Primer Area Truck Vic
+1,298  🟥  NOR  La Portalada Logroño
+1,317  🟩  NOR  Bera de Bidasoa
+1,370  ⬜  NOR  Porriño Staroil
+1,375  🟧  NOR  Valencia Ribarroja
+1,432  🟥  NOR  Vía de la Plata Mérida
