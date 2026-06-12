@@ -1,5 +1,148 @@
 stations:
-  # PENDIENTE completar con las 39 estaciones reales
-  - id: gijon
-    name: Gijon
-    province: asturias
+ - id: benavente_val
+  name: Benavente
+  community: castilla_y_leon
+
+- id: watery_aranda
+  name: Watery Aranda
+  community: castilla_y_leon
+
+- id: palanquinos
+  name: Palanquinos
+  community: castilla_y_leon
+
+- id: ribadeo
+  name: Ribadeo
+  community: galicia
+
+- id: aranda_prado_marina
+  name: Aranda Prado Marina
+  community: castilla_y_leon
+
+- id: ribaforada
+  name: Ribaforada
+  community: navarra
+
+- id: benavente_avia
+  name: Benavente Avia
+  community: castilla_y_leon
+
+- id: avilesina
+  name: Avilesina
+  community: asturias
+
+- id: siero
+  name: Siero
+  community: asturias
+
+- id: valcambus_riano_ii
+  name: Valcambus Riaño II
+  community: castilla_y_leon
+
+- id: la_joyosa
+  name: La Joyosa
+  community: aragon
+
+- id: empresoil_asturias
+  name: Empresoil Asturias
+  community: asturias
+
+- id: alfajarin
+  name: Alfajarín
+  community: aragon
+
+- id: aldehuela
+  name: Aldehuela
+  community: castilla_y_leon
+
+- id: centro_transporte_zamora
+  name: Centro Transporte Zamora
+  community: castilla_y_leon
+
+- id: fegoblan_pontevedra
+  name: Fegoblan Pontevedra
+  community: galicia
+
+- id: benavente_dst
+  name: Benavente
+  community: castilla_y_leon
+
+- id: oiartzun
+  name: Oiartzun
+  community: pais_vasco
+
+- id: el_burgo_avia
+  name: El Burgo Avia
+  community: castilla_y_leon
+
+- id: somonte_gijon
+  name: Somonte Gijón
+  community: asturias
+
+- id: agoncillo
+  name: Agoncillo
+  community: la_rioja
+
+- id: fonolleres_lleida
+  name: Fonolleres Lleida
+  community: cataluna
+
+- id: liano
+  name: Liaño
+  community: cantabria
+
+- id: frontera_caya
+  name: Frontera Caya
+  community: extremadura
+
+- id: sertuy
+  name: Sertuy
+  community: pais_vasco
+
+- id: tabaza_avia
+  name: Tabaza Avia
+  community: asturias
+
+- id: ribadesella_avia
+  name: Ribadesella Avia
+  community: asturias
+
+- id: primer_area_truck_vic
+  name: Primer Area Truck Vic
+  community: cataluna
+
+- id: jundiz_vitoria
+  name: Jundiz Vitoria
+  community: pais_vasco
+
+- id: los_carros_briviesca
+  name: Los Carros Briviesca
+  community: castilla_y_leon
+
+- id: la_portalada_logrono
+  name: La Portalada Logroño
+  community: la_rioja
+
+- id: bera_de_bidasoa
+  name: Bera de Bidasoa
+  community: navarra
+
+- id: petrem
+  name: Petrem
+  community: cataluna
+
+- id: porrino_staroil
+  name: Porriño Staroil
+  community: galicia
+
+- id: valencia_ribarroja
+  name: Valencia Ribarroja
+  community: comunidad_valenciana
+
+- id: zamora_vista_alegre
+  name: Zamora Vista Alegre
+  community: castilla_y_leon
+
+- id: via_de_la_plata_merida
+  name: Vía de la Plata Mérida
+  community: extremadura
